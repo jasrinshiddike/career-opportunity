@@ -1,0 +1,27 @@
+.job-feature-list img{
+    padding: 10px;
+    width: 150px;
+    height: 80px;
+}
+.job-workplace{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.job-feature-list{
+    width: 400px;
+    height: 380px;
+    border: 1px solid #E8E8E8;
+    border-radius: 8px;
+}
+.border-blue{
+    border: 1px solid lightskyblue;
+    border-radius: 4px;
+    padding: 8px;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+    color: lightblue;
+}

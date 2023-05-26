@@ -1,0 +1,10 @@
+.single-job img{
+    width: 150px;
+    height: 150px;
+}
+.single-job{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}

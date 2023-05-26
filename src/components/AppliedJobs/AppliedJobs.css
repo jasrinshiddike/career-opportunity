@@ -1,0 +1,22 @@
+.job-applied{
+    width: 800px;
+    height: 250px;
+    border: 1px solid #E8E8E8;
+    border-radius: 8px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+
+.filter-job{
+    margin-bottom: 50px;
+    padding: 5px;
+}
+
+.select-job{
+    width: 120px;
+    height: 40px;
+    padding: 5px;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+}

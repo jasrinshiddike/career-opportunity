@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "img": "https://as1.ftcdn.net/v2/jpg/00/75/84/24/1000_F_75842435_8k6FL7eDUwIM0gP3ykBP8WGLTYDBE96C.jpg",
+      "job_title": "Account & Finance",
+      "vacancies": "300 Jobs Available"
+    },
+    {
+        "id": "2",
+        "img": "https://as2.ftcdn.net/v2/jpg/00/99/26/65/1000_F_99266534_DzDKXDiiEaGHXrDOEN8MNLKn3uahQz4T.jpg",
+        "job_title": "Creative Design",
+        "vacancies": "100+ Jobs Available"
+    },
+    {
+        "id": "3",
+        "img": "https://as1.ftcdn.net/v2/jpg/02/14/03/98/1000_F_214039835_7G8zcZs2PjDhtBuYXZ6a9OGE6VKFDAlB.jpg",
+        "job_title": "Marketing & Sales",
+        "vacancies": "150 Jobs Available"
+    },
+    {
+        "id": "4",
+        "img": "https://as2.ftcdn.net/v2/jpg/02/22/39/79/1000_F_222397934_G2Ue0twHnDneEQn8loRZ69Wv4VLuTwTZ.jpg",
+        "job_title": "Engineering Job",
+        "vacancies": "224 Jobs Available"
+    }
+]
